@@ -1,0 +1,15 @@
+/Users/benvindavid/Desktop/Code/C#/Pratice/app/obj/Debug/net6.0/app.csproj.AssemblyReference.cache
+/Users/benvindavid/Desktop/Code/C#/Pratice/app/obj/Debug/net6.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benvindavid/Desktop/Code/C#/Pratice/app/obj/Debug/net6.0/app.AssemblyInfoInputs.cache
+/Users/benvindavid/Desktop/Code/C#/Pratice/app/obj/Debug/net6.0/app.AssemblyInfo.cs
+/Users/benvindavid/Desktop/Code/C#/Pratice/app/obj/Debug/net6.0/app.csproj.CoreCompileInputs.cache
+/Users/benvindavid/Desktop/Code/C#/Pratice/app/bin/Debug/net6.0/app
+/Users/benvindavid/Desktop/Code/C#/Pratice/app/bin/Debug/net6.0/app.deps.json
+/Users/benvindavid/Desktop/Code/C#/Pratice/app/bin/Debug/net6.0/app.runtimeconfig.json
+/Users/benvindavid/Desktop/Code/C#/Pratice/app/bin/Debug/net6.0/app.dll
+/Users/benvindavid/Desktop/Code/C#/Pratice/app/bin/Debug/net6.0/app.pdb
+/Users/benvindavid/Desktop/Code/C#/Pratice/app/obj/Debug/net6.0/app.dll
+/Users/benvindavid/Desktop/Code/C#/Pratice/app/obj/Debug/net6.0/refint/app.dll
+/Users/benvindavid/Desktop/Code/C#/Pratice/app/obj/Debug/net6.0/app.pdb
+/Users/benvindavid/Desktop/Code/C#/Pratice/app/obj/Debug/net6.0/app.genruntimeconfig.cache
+/Users/benvindavid/Desktop/Code/C#/Pratice/app/obj/Debug/net6.0/ref/app.dll

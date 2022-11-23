@@ -1,0 +1,15 @@
+/Users/benvindavid/Desktop/Code/C#/TestDB/bin/Debug/net6.0/TestDB
+/Users/benvindavid/Desktop/Code/C#/TestDB/bin/Debug/net6.0/TestDB.deps.json
+/Users/benvindavid/Desktop/Code/C#/TestDB/bin/Debug/net6.0/TestDB.runtimeconfig.json
+/Users/benvindavid/Desktop/Code/C#/TestDB/bin/Debug/net6.0/TestDB.dll
+/Users/benvindavid/Desktop/Code/C#/TestDB/bin/Debug/net6.0/TestDB.pdb
+/Users/benvindavid/Desktop/Code/C#/TestDB/obj/Debug/net6.0/TestDB.csproj.AssemblyReference.cache
+/Users/benvindavid/Desktop/Code/C#/TestDB/obj/Debug/net6.0/TestDB.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benvindavid/Desktop/Code/C#/TestDB/obj/Debug/net6.0/TestDB.AssemblyInfoInputs.cache
+/Users/benvindavid/Desktop/Code/C#/TestDB/obj/Debug/net6.0/TestDB.AssemblyInfo.cs
+/Users/benvindavid/Desktop/Code/C#/TestDB/obj/Debug/net6.0/TestDB.csproj.CoreCompileInputs.cache
+/Users/benvindavid/Desktop/Code/C#/TestDB/obj/Debug/net6.0/TestDB.dll
+/Users/benvindavid/Desktop/Code/C#/TestDB/obj/Debug/net6.0/refint/TestDB.dll
+/Users/benvindavid/Desktop/Code/C#/TestDB/obj/Debug/net6.0/TestDB.pdb
+/Users/benvindavid/Desktop/Code/C#/TestDB/obj/Debug/net6.0/TestDB.genruntimeconfig.cache
+/Users/benvindavid/Desktop/Code/C#/TestDB/obj/Debug/net6.0/ref/TestDB.dll

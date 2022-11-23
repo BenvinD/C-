@@ -1,0 +1,15 @@
+/Users/benvindavid/Desktop/Code/C#/Ex7A/bin/Debug/net6.0/Ex7A
+/Users/benvindavid/Desktop/Code/C#/Ex7A/bin/Debug/net6.0/Ex7A.deps.json
+/Users/benvindavid/Desktop/Code/C#/Ex7A/bin/Debug/net6.0/Ex7A.runtimeconfig.json
+/Users/benvindavid/Desktop/Code/C#/Ex7A/bin/Debug/net6.0/Ex7A.dll
+/Users/benvindavid/Desktop/Code/C#/Ex7A/bin/Debug/net6.0/Ex7A.pdb
+/Users/benvindavid/Desktop/Code/C#/Ex7A/obj/Debug/net6.0/Ex7A.csproj.AssemblyReference.cache
+/Users/benvindavid/Desktop/Code/C#/Ex7A/obj/Debug/net6.0/Ex7A.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benvindavid/Desktop/Code/C#/Ex7A/obj/Debug/net6.0/Ex7A.AssemblyInfoInputs.cache
+/Users/benvindavid/Desktop/Code/C#/Ex7A/obj/Debug/net6.0/Ex7A.AssemblyInfo.cs
+/Users/benvindavid/Desktop/Code/C#/Ex7A/obj/Debug/net6.0/Ex7A.csproj.CoreCompileInputs.cache
+/Users/benvindavid/Desktop/Code/C#/Ex7A/obj/Debug/net6.0/Ex7A.dll
+/Users/benvindavid/Desktop/Code/C#/Ex7A/obj/Debug/net6.0/refint/Ex7A.dll
+/Users/benvindavid/Desktop/Code/C#/Ex7A/obj/Debug/net6.0/Ex7A.pdb
+/Users/benvindavid/Desktop/Code/C#/Ex7A/obj/Debug/net6.0/Ex7A.genruntimeconfig.cache
+/Users/benvindavid/Desktop/Code/C#/Ex7A/obj/Debug/net6.0/ref/Ex7A.dll
